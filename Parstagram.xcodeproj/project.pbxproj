@@ -17,6 +17,7 @@
 		D08EF53227D079B000106612 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D08EF53127D079B000106612 /* FeedViewController.swift */; };
 		D08EF53427D1885C00106612 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D08EF53327D1885C00106612 /* CameraViewController.swift */; };
 		D08EF53627D19C7200106612 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D08EF53527D19C7200106612 /* PostCell.swift */; };
+		D08EF53827D7073B00106612 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D08EF53727D7073B00106612 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		D08EF53127D079B000106612 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		D08EF53327D1885C00106612 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		D08EF53527D19C7200106612 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		D08EF53727D7073B00106612 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				D08EF53127D079B000106612 /* FeedViewController.swift */,
 				D08EF53327D1885C00106612 /* CameraViewController.swift */,
 				D08EF53527D19C7200106612 /* PostCell.swift */,
+				D08EF53727D7073B00106612 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				D08EF53227D079B000106612 /* FeedViewController.swift in Sources */,
 				D00FC46E27CFF387009399A7 /* SceneDelegate.swift in Sources */,
 				D08EF53627D19C7200106612 /* PostCell.swift in Sources */,
+				D08EF53827D7073B00106612 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
